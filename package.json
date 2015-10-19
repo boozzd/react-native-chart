@@ -3,12 +3,12 @@
   "version": "0.0.4",
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/onefold/react-native-chart.git"
+    "url" : "https://github.com/boozzd/react-native-chart"
   },
   "main": "Chart.ios.js",
   "author": "Hyun Cho <hyun@onefold.io> (http://onefold.io)",
   "peerDependencies": {
-    "react-native": "^0.4.0"
+    "react-native": "*"
   },
   "keywords": [
     "react-native",
